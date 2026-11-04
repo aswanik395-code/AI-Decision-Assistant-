@@ -1,0 +1,12 @@
+[
+  {"id":"L01","name":"Zenith Air 14","brand":"Zenith","price_inr":52000,"ram_gb":8,"storage_gb":256,"cpu_score":55,"gpu_score":20,"dedicated_gpu":false,"battery_hours":12,"weight_kg":1.2,"rating":4.1,"use_cases":["student","business"]},
+  {"id":"L02","name":"Nova Student 15","brand":"Nova","price_inr":38000,"ram_gb":8,"storage_gb":512,"cpu_score":40,"gpu_score":15,"dedicated_gpu":false,"battery_hours":8,"weight_kg":1.8,"rating":3.9,"use_cases":["student"]},
+  {"id":"L03","name":"Orbit Dev 14","brand":"Orbit","price_inr":78000,"ram_gb":16,"storage_gb":512,"cpu_score":72,"gpu_score":25,"dedicated_gpu":false,"battery_hours":10,"weight_kg":1.4,"rating":4.4,"use_cases":["student","programming","business"]},
+  {"id":"L04","name":"Vertex Gamer 16","brand":"Vertex","price_inr":95000,"ram_gb":16,"storage_gb":1024,"cpu_score":75,"gpu_score":78,"dedicated_gpu":true,"battery_hours":5,"weight_kg":2.4,"rating":4.3,"use_cases":["gaming","creative"]},
+  {"id":"L05","name":"Vertex Gamer Pro 17","brand":"Vertex","price_inr":165000,"ram_gb":32,"storage_gb":1024,"cpu_score":90,"gpu_score":95,"dedicated_gpu":true,"battery_hours":4,"weight_kg":2.9,"rating":4.6,"use_cases":["gaming","creative","programming"]},
+  {"id":"L06","name":"Zenith Creator 16","brand":"Zenith","price_inr":128000,"ram_gb":32,"storage_gb":1024,"cpu_score":85,"gpu_score":70,"dedicated_gpu":true,"battery_hours":8,"weight_kg":1.9,"rating":4.7,"use_cases":["creative","programming"]},
+  {"id":"L07","name":"Nova Business 14","brand":"Nova","price_inr":68000,"ram_gb":16,"storage_gb":512,"cpu_score":65,"gpu_score":20,"dedicated_gpu":false,"battery_hours":14,"weight_kg":1.1,"rating":4.2,"use_cases":["business","student"]},
+  {"id":"L08","name":"Orbit Lite 13","brand":"Orbit","price_inr":45000,"ram_gb":8,"storage_gb":256,"cpu_score":50,"gpu_score":18,"dedicated_gpu":false,"battery_hours":11,"weight_kg":1.0,"rating":4.0,"use_cases":["student","business"]},
+  {"id":"L09","name":"Orbit Dev Max 15","brand":"Orbit","price_inr":105000,"ram_gb":32,"storage_gb":1024,"cpu_score":88,"gpu_score":30,"dedicated_gpu":false,"battery_hours":9,"weight_kg":1.7,"rating":4.5,"use_cases":["programming","business"]},
+  {"id":"L10","name":"Nova Play 15","brand":"Nova","price_inr":72000,"ram_gb":16,"storage_gb":512,"cpu_score":62,"gpu_score":60,"dedicated_gpu":true,"battery_hours":6,"weight_kg":2.2,"rating":4.0,"use_cases":["gaming","student"]}
+]
